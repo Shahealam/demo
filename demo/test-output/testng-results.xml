@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-06T15:53:57 IST" name="Default suite" finished-at="2024-12-06T15:54:11 IST" duration-ms="13457">
+    <groups>
+    </groups>
+    <test started-at="2024-12-06T15:53:57 IST" name="Default test" finished-at="2024-12-06T15:54:11 IST" duration-ms="13457">
+      <class name="demoproject.Varify_Date_and_time_picker">
+        <test-method is-config="true" signature="setup()[pri:0, instance:demoproject.Varify_Date_and_time_picker@55fe41ea]" started-at="2024-12-06T15:53:57 IST" name="setup" finished-at="2024-12-06T15:54:07 IST" duration-ms="10060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testdate_and_time()[pri:0, instance:demoproject.Varify_Date_and_time_picker@55fe41ea]" started-at="2024-12-06T15:54:07 IST" name="testdate_and_time" finished-at="2024-12-06T15:54:08 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testdate_and_time -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:demoproject.Varify_Date_and_time_picker@55fe41ea]" started-at="2024-12-06T15:54:08 IST" name="teardown" finished-at="2024-12-06T15:54:11 IST" duration-ms="3082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- demoproject.Varify_Date_and_time_picker -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
